@@ -1,0 +1,22 @@
+Code,Description,D_MerlinAccountCode,CurrentBalance,gl_account_code,gl_account_description,gl_supplier_key,gl_current_balance,gl_current_balance_abs
+01-85001,Supplier13 E071 Claimbacks,Unknown,-242784.06,01-85001,Supplier13 E071 Claimbacks,SUPPLIER13,-242784.06,242784.06
+01-85002,Supplier2 E005 Claimbacks,Unknown,-6240,01-85002,Supplier2 E005 Claimbacks,SUPPLIER2,-6240.0,6240.0
+01-85003,Supplier2GB E005GB Claimbacks,Unknown,0,01-85003,Supplier2GB E005GB Claimbacks,SUPPLIER2GB,0.0,0.0
+01-85007,Supplier9 E022 Claimbacks,Unknown,-5774.89,01-85007,Supplier9 E022 Claimbacks,SUPPLIER9,-5774.89,5774.89
+01-85017,Supplier3 E055 Claimbacks,Unknown,-5550,01-85017,Supplier3 E055 Claimbacks,SUPPLIER3,-5550.0,5550.0
+01-85018,Supplier5 E059 Claimbacks,Unknown,0,01-85018,Supplier5 E059 Claimbacks,SUPPLIER5,0.0,0.0
+01-85021,Supplier19 E070 Claimbacks,Unknown,-9124.28,01-85021,Supplier19 E070 Claimbacks,SUPPLIER19,-9124.28,9124.28
+01-85036,Supplier8 E175 Claimbacks,Unknown,-4782.68,01-85036,Supplier8 E175 Claimbacks,SUPPLIER8,-4782.68,4782.68
+01-85046,Supplier10 E234 Claimbacks,Unknown,-925,01-85046,Supplier10 E234 Claimbacks,SUPPLIER10,-925.0,925.0
+01-85056,Supplier17 E269A Claimbacks,Unknown,-576,01-85056,Supplier17 E269A Claimbacks,SUPPLIER17,-576.0,576.0
+01-85079,Supplier18 E555 Claimbacks,Unknown,-46476.48,01-85079,Supplier18 E555 Claimbacks,SUPPLIER18,-46476.48,46476.48
+01-85080,Supplier18GB E555GB Claimbacks,Unknown,0,01-85080,Supplier18GB E555GB Claimbacks,SUPPLIER18GB,0.0,0.0
+01-85115,Supplier20 E948 Claimbacks,Unknown,-3431.79,01-85115,Supplier20 E948 Claimbacks,SUPPLIER20,-3431.79,3431.79
+01-85123,Supplier11 L129 Claimbacks,Unknown,-85,01-85123,Supplier11 L129 Claimbacks,SUPPLIER11,-85.0,85.0
+01-85137,Supplier14 L810 Claimbacks,Unknown,-9328.19,01-85137,Supplier14 L810 Claimbacks,SUPPLIER14,-9328.19,9328.19
+01-85140,Supplier15 L895 Claimbacks,Unknown,0,01-85140,Supplier15 L895 Claimbacks,SUPPLIER15,0.0,0.0
+01-85147,Supplier6 N016 Claimbacks,Unknown,0,01-85147,Supplier6 N016 Claimbacks,SUPPLIER6,0.0,0.0
+01-85151,Supplier22 N023 Claimbacks,Unknown,-276.94,01-85151,Supplier22 N023 Claimbacks,SUPPLIER22,-276.94,276.94
+01-85181,Supplier4 U102 Claimbacks,Unknown,0,01-85181,Supplier4 U102 Claimbacks,SUPPLIER4,0.0,0.0
+01-85183,Supplier1 U106 Claimbacks,Unknown,-3744.41,01-85183,Supplier1 U106 Claimbacks,SUPPLIER1,-3744.41,3744.41
+01-85185,Supplier21 E907 Claimbacks,Unknown,-34587,01-85185,Supplier21 E907 Claimbacks,SUPPLIER21,-34587.0,34587.0
